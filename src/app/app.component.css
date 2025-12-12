@@ -1,0 +1,10 @@
+.layout{height:100vh}
+.sidenav{width:260px}
+.brand{display:flex;gap:12px;align-items:center;padding:16px 16px 8px 16px}
+.brand-icon{font-size:32px;height:32px;width:32px}
+.brand-title{font-weight:700}
+.brand-sub{font-size:12px;opacity:.7}
+.toolbar{position:sticky;top:0;z-index:5}
+.spacer{flex:1}
+.content{padding:16px;max-width:1200px;margin:0 auto}
+.active{background:rgba(0,0,0,0.06)}
